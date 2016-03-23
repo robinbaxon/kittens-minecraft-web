@@ -1,2 +1,4 @@
 # Node and boostrap
 node_modules/
+.vscode/
+static-test-api/
