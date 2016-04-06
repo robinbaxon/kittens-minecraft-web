@@ -1,7 +1,7 @@
 .body {
     position: relative;
 }
-.intro {
+.intro2 {
     display: block; 
     margin: 0 auto; 
     max-width: 600px; 
@@ -9,11 +9,12 @@
 }
 
 .serverstats {
-    position: absolute;
-    bottom: 0px;
+    /* position: absolute; */
+    
+    top: 0px;
     background-color: white;
     width: 100%;
-    border-top: 2px dotted gray;
+    /*border-bottom: 2px dotted gray;*/
 }
 .online {
     color: green;

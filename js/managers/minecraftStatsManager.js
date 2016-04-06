@@ -71,16 +71,10 @@ define(["require", "exports", '../models/minecraftInfo', '../actions/apiAction']
             function SerializationHelper() {
             }
             SerializationHelper.toInstance = function (obj, json) {
-                // var jsonObj = JSON.parse(json);
                 var jsonObj = json;
-                // if (typeof obj["fromJSON"] === "function") {
-                //     obj["fromJSON"](jsonObj);
-                // }
-                // else {
                 for (var propName in jsonObj) {
                     obj[propName] = jsonObj[propName];
                 }
-                // }
                 return obj;
             };
             return SerializationHelper;
