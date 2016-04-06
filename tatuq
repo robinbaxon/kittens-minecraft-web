@@ -1,0 +1,35 @@
+[33mcommit d1189db1478baff038f4deb35dbf329db8ca1c4d[m
+Author: Robin Hanssen <robin@idehub.no>
+Date:   Thu Apr 7 00:27:37 2016 +0200
+
+    Add simple menu. Add reference to memory usage graph.
+
+[33mcommit 0d725caeced13bef0aeff8b23dc407fcc737d55c[m
+Author: Robin Hanssen <robin@idehub.no>
+Date:   Wed Mar 23 02:58:48 2016 +0100
+
+    Add typescript based Minecraft API client.
+
+[33mcommit ff5153630645af5df5e10ab6c50ea9de8fe2134f[m
+Author: Robin Hanssen <robin@idehub.no>
+Date:   Mon Mar 21 21:15:03 2016 +0100
+
+    Add bootstrap and jquery
+
+[33mcommit 88c631ffb6aa2acc9861612498b63f86a3a6fdb5[m
+Author: Robin Hanssen <robin@idehub.no>
+Date:   Mon Mar 21 00:36:50 2016 +0100
+
+    Add details about disabled mods
+
+[33mcommit 525c97e17d0f317dd023c76bd43d2c4b3e26f445[m
+Author: Robin Hanssen <robin@idehub.no>
+Date:   Sun Mar 20 19:16:47 2016 -0400
+
+    Add informational page
+
+[33mcommit 32343cff9989799b20b6cfa1f473db739c9e1aa9[m
+Author: Robin Hanssen <robin.hanssen@gmail.com>
+Date:   Sun Mar 20 23:54:33 2016 +0100
+
+    Initial commit
