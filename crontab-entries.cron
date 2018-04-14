@@ -1,0 +1,3 @@
+* * * * * cd /www/default && git pull
+* * * * * wget http://api.fhrnet.eu/mc/minecraft.baxon.org/25565/newinfo?method=json -O /www/default/static-test-api/minecraft.baxon.org/25565/newinfo
+* * * * * /usr/bin/gnuplot /www/default/scripts/creategraph.gp > /www/default/images/memoryusage.png
